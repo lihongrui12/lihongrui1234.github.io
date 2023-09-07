@@ -1,5 +1,5 @@
 # Setup
-title: Not Pure Poole
+title: Ink language
 description: A simple, beautiful, and powerful Jekyll theme for blogs
 url: https://vszhub.github.io
 avatar: /avatar.jpeg
@@ -29,7 +29,7 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: Ink language
   card: summary
 logo: logo.png
 social:
